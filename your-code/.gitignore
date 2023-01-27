@@ -1,2 +1,3 @@
-cleaned.csv
+*.csv
 funcs.py
+__pycache__
